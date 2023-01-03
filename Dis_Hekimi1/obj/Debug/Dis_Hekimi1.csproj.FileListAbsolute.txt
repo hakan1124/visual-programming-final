@@ -1,0 +1,14 @@
+C:\Users\RealTekno\source\repos\Dis_Hekimi1\Dis_Hekimi1\obj\Debug\Dis_Hekimi1.csproj.AssemblyReference.cache
+C:\Users\RealTekno\source\repos\Dis_Hekimi1\Dis_Hekimi1\obj\Debug\Dis_Hekimi1.Properties.Resources.resources
+C:\Users\RealTekno\source\repos\Dis_Hekimi1\Dis_Hekimi1\obj\Debug\Dis_Hekimi1.csproj.GenerateResource.cache
+C:\Users\RealTekno\source\repos\Dis_Hekimi1\Dis_Hekimi1\obj\Debug\Dis_Hekimi1.csproj.CoreCompileInputs.cache
+C:\Users\RealTekno\source\repos\Dis_Hekimi1\Dis_Hekimi1\bin\Debug\Dis_Hekimi1.exe.config
+C:\Users\RealTekno\source\repos\Dis_Hekimi1\Dis_Hekimi1\bin\Debug\Dis_Hekimi1.exe
+C:\Users\RealTekno\source\repos\Dis_Hekimi1\Dis_Hekimi1\bin\Debug\Dis_Hekimi1.pdb
+C:\Users\RealTekno\source\repos\Dis_Hekimi1\Dis_Hekimi1\obj\Debug\Dis_Hekimi1.exe
+C:\Users\RealTekno\source\repos\Dis_Hekimi1\Dis_Hekimi1\obj\Debug\Dis_Hekimi1.pdb
+C:\Users\RealTekno\source\repos\Dis_Hekimi1\Dis_Hekimi1\obj\Debug\Dis_Hekimi1.MainWindow.resources
+C:\Users\RealTekno\source\repos\Dis_Hekimi1\Dis_Hekimi1\obj\Debug\Dis_Hekimi1.AnaSayfa.resources
+C:\Users\RealTekno\source\repos\Dis_Hekimi1\Dis_Hekimi1\obj\Debug\Dis_Hekimi1.Doktorlar.resources
+C:\Users\RealTekno\source\repos\Dis_Hekimi1\Dis_Hekimi1\obj\Debug\Dis_Hekimi1.Goruntuler.resources
+C:\Users\RealTekno\source\repos\Dis_Hekimi1\Dis_Hekimi1\obj\Debug\Dis_Hekimi1.Randevular.resources
